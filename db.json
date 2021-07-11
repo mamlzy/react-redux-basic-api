@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lazy",
+      "address": "Depok",
+      "age": 18,
+      "number": "08934274236"
+    },
+    {
+      "id": 2,
+      "name": "Tony",
+      "address": "Jakarta",
+      "age": 20,
+      "number": "08934212324"
+    },
+    {
+      "id": 3,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 4,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 5,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 6,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 7,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 8,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 9,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 10,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    },
+    {
+      "id": 11,
+      "name": "Chris",
+      "address": "Bogor",
+      "age": 24,
+      "number": "08934274657"
+    }
+  ]
+}
